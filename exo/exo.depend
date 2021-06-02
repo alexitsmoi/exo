@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1622617390 source:c:\users\azeat\desktop\dsfg\exo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
